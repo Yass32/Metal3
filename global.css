@@ -1,0 +1,30 @@
+:root {
+    /* fonts */
+    --text-2-regular: Inter;
+  
+    /* font sizes */
+    --font-size-base: 15px;
+    --text-2-regular-size: 18px;
+    --font-size-xl: 20px;
+    --font-size-2xl: 22px;
+  
+    /* Colors */
+    --color-gray: #202020;
+    --color-aquamarine-100: #01eec4;
+    --background-bg-primary: #fff;
+    --color-lightgray: #d1d1d1;
+    --text-txt-primary: #000;
+    --text-txt-secondary: rgba(60, 60, 67, 0.85);
+  
+    /* Gaps */
+    --gap-md: 16px;
+  
+    /* Paddings */
+    --padding-sm: 18px;
+    --padding-md: 24px;
+  
+    /* border radiuses */
+    --br-sm: 8px;
+    --br-md: 30px;
+  }
+  
